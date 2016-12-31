@@ -1,0 +1,24 @@
+{
+    "author": "john@ajis.co.uk",
+    "dependencies": {},
+    "keywords": [],
+    "name": "tutorial-1",
+    "pebble": {
+        "displayName": "Tutorial 1",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "rocky",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt"
+        ],
+        "uuid": "473d6dbe-da7e-4c93-aaae-d33c70e67d25",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.0.0"
+}
